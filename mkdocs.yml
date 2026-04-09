@@ -1,0 +1,10 @@
+site_name: MkDocs Demo
+
+# theme: material  # Uncomment this line to use Material theme
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - About: about.md
+
+# docs_dir configuration
+docs_dir: docs
